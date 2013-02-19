@@ -6,29 +6,20 @@
 <div>Start with this survey:<br><a href="http://www.surveymonkey.com/s/HRY3YSK">Python Intro Survey</a></div>
 <h2>Hour One - This new learning amazes me, Sir Bedevere.<br>Explain again how sheep's bladders may be employed to prevent earthquakes.</h2>
 <ul><li>Installation demo</li>
-<ul>
-<li>How to check for 64-bit</li>
+<ul><li>How to check for 64-bit</li>
 <li>Where to get Python:</li>
-<ul>
-<li><a href="http://www.python.org/download/">Python.org</a></li>
+<ul><li><a href="http://www.python.org/download/">Python.org</a></li>
 <li><a href="http://ironpython.codeplex.com/">IronPython</a></li>
-<li><a href="http://www.activestate.com/activepython/downloads">ActivePython</a></li>
-</ul>
-</ul>
+<li><a href="http://www.activestate.com/activepython/downloads">ActivePython</a></li></ul></ul>
 <li>Installation Help</li>
-<ul>
-<li><a href="http://docs.python.org/2/using/windows.html">Python on Windows</a></li>
+<ul><li><a href="http://docs.python.org/2/using/windows.html">Python on Windows</a></li>
 <li>Installs to: C:\Python27</li>
 <li>Run: set path=%path%;C:\python27</li>
-<li>Running scripts: python vs. pythonw</li>
-<!--<li><a href="http://www.varunpant.com/posts/how-to-setup-easy_install-on-windows">Easy Install</a> and <a href="http://pypi.python.org/pypi/setuptools">setuptools</a></li>-->
-</ul>
+<li>Running scripts: python vs. pythonw</li></ul>
 <li>More Help</li>
-<ul>
-<li><a href="http://docs.python.org/2/contents.html">Python Documentation</a></li>
+<ul><li><a href="http://docs.python.org/2/contents.html">Python Documentation</a></li>
 <li><a href="http://docs.python.org/2/tutorial/">Python Tutorial</a></li>
-<li><a href="http://docs.python.org/2/reference/index.html">Python Language Reference</a></li>
-</ul>
+<li><a href="http://docs.python.org/2/reference/index.html">Python Language Reference</a></li></ul>
 <li>IDE introduction: We will use IDLE</li>
 <ul>
 <li><a href="http://wiki.python.org/moin/IntegratedDevelopmentEnvironments">IDE List</a></li>
