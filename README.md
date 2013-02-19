@@ -2,6 +2,7 @@
 <body>
 <h1>Introductory Geoprocessing with Python</h1>
 <p>This course will get you up and running with python in four sections. We still start with installation, including installation with ArcGIS, integrated development environments (IDEs) and where to find more help. Next, we will cover basic syntax, import statements, writing functions, and adding additional libraries and site packages to your installation. For the third section of the class, we will dive into python programming basics: variables, scopes, datatypes, flow control, debugging, and error handling. The class will wrap up by covering common data structures and an introduction to libraries with the widely used os and datetime modules. You should have a very basic understanding of script writing, as we will be up and running with our own scripts by the end of the class. Knowledge of basic flow control (if-then-else, for loops, while loops) is recommended.</p>
+<div><a href="http://maptest.stlouisco.com/python/stlco.zip">Download course materials</a></div>
 
 <div>Start with this survey:<br><a href="http://www.surveymonkey.com/s/HRY3YSK">Python Intro Survey</a></div>
 <h2>Hour One - This new learning amazes me, Sir Bedevere.<br>Explain again how sheep's bladders may be employed to prevent earthquakes.</h2>
