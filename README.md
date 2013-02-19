@@ -7,16 +7,12 @@ Start with this survey:
 ##Hour One - This new learning amazes me, Sir Bedevere.
 ###Explain again how sheep's bladders may be employed to prevent earthquakes.
   *Installation demo
-    
       *How to check for 64-bit
       *Where to get Python:
-      
         *[Python.org](http://www.python.org/download/)
         *[IronPython](http://ironpython.codeplex.com/)
         *[ActivePython](http://www.activestate.com/activepython/downloads)
-      
-    
-    *Installation Help
+  *Installation Help
     
       *[Python on Windows](http://docs.python.org/2/using/windows.html)
       *Installs to: C:\Python27
