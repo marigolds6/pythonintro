@@ -55,13 +55,13 @@
 </ul>
 <ul>Examples:
 <li>Select Address Points using attributes</li>
-<li>Select parcels using location (different types)</li>
+<li>Select parcels using location</li>
 <li>Run a buffer analysis against streets</li>
-<li>Find parcels adjacent to centerlines</li>
-<li>Find address points in parcels</li>
+<ul><li>Find parcels adjacent to centerlines</li>
+<li>Find address points in parcels</li></ul>
 <li>Create geocoder from source files</li>
-<li>Subset using attributes</li>
-<li>Subset using location</li>
+<ul><li>Subset using attributes</li>
+<li>Subset using location</li></ul>
 <li>os: Copy around file geodatabase</li>
 <li>synchronize replicas</li>
 </ul>
