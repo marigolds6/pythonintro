@@ -22,7 +22,7 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
 ## [Hour Two](https://github.com/marigolds6/pythonintro/blob/master/Hour2.md) - That's enough music for now, lads... Looks like there's dirty work afoot.  
 [An Informal Introduction to Python](http://docs.python.org/2/tutorial/introduction.html)
 
-## [Hour Five! Three sir. Three!](https://github.com/marigolds6/pythonintro/blob/master/Hour3.md) - We write a module and get some practice
+## [Hour Five! Three sir. Three!](https://github.com/marigolds6/pythonintro/blob/master/Hour3.md) - More on lists, and we get into flow control
 * More Lists
 * Flow Control
 * Useful tools
