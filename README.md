@@ -20,28 +20,45 @@ While you are downloading, do the [Python Intro
 Survey](http://www.surveymonkey.com/s/HRY3YSK)
 
 ## Hour One - This new learning amazes me, Sir Bedevere.
-
 Explain again how sheep's bladders may be employed to prevent earthquakes.
 
-  * Installation demo
-    * How to check for 64-bit
-    * Where to get Python:
-      * [Python.org](http://www.python.org/download/)
-      * [IronPython](http://ironpython.codeplex.com/)
-      * [ActivePython](http://www.activestate.com/activepython/downloads)
-  * Installation Help
-    * [Python on Windows](http://docs.python.org/2/using/windows.html)
-    * Installs to: C:\Python27
-    * Run: set path=%path%;C:\python27
-    * Running scripts: python vs. pythonw
-  * More Help
-    * [Python Documentation](http://docs.python.org/2/contents.html)
-    * [Python Tutorial](http://docs.python.org/2/tutorial/)
-    * [Python Language Reference](http://docs.python.org/2/reference/index.html)
-  * IDE introduction: We will use IDLE
-    * [IDE List](http://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
-    * [Great advice](http://stackoverflow.com/questions/81584/what-ide-to-use-for-python)
-    * [One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)
+### Installation demo
+* How to check for 64-bit
+* Where to get Python:
+  * [Python.org](http://www.python.org/download/)
+  * [IronPython](http://ironpython.codeplex.com/)
+  * [ActivePython](http://www.activestate.com/activepython/downloads)
+### Installation Help
+* [Installing Python on Windows](http://docs.python-guide.org/en/latest/starting/install/win/)  
+* Installs to: C:\Python27
+* Run: set path=%path%;C:\python27
+* Running scripts: python vs. pythonw
+### Useful tools
+    * easy_install  
+    * setuptools -> distribute -> setuptools  
+[What is the difference?](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2/6522905#6522905)  
+    * [How to install pip on Windows](http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows)  
+    * [An Easy Guide to Install Python or Pip on Windows](http://arunrocks.com/guide-to-install-python-or-pip-on-windows/)
+### easy_install (part of setuptools)-> pip  
+pip can uninstall  
+But... easy_install works better on windows because it handles binaries.  
+  
+### Another option  
+[pip for windows](https://sites.google.com/site/pydatalog/python/pip-for-windows)  
+* What does it do?  
+* Why use other options?  
+
+### Where to get help
+* [Python Documentation](http://docs.python.org/2/contents.html)
+* [Python Tutorial](http://docs.python.org/2/tutorial/)
+* [Python Language Reference](http://docs.python.org/2/reference/index.html)
+* [Stackexchange](http://gis.stackexchange.com)  
+
+### IDE introduction: We will use IDLE
+* [IDE List](http://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
+* [Great advice](http://stackoverflow.com/questions/81584/what-ide-to-use-for-python)
+  
+### [One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)
 
 ## Hour Two - That's enough music for now, lads...
 ### Looks like there's dirty work afoot.  
