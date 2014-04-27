@@ -14,91 +14,53 @@ scripts by the end of the class. Knowledge of basic flow control (if-then-
 else, for loops, while loops) is recommended.
 
 First [Download the course
-materials](http://maptest.stlouisco.com/python/stlco.zip)
-
-While you are downloading, do the [Python Intro
-Survey](http://www.surveymonkey.com/s/HRY3YSK)
-
+materials](https://www.dropbox.com/s/65inpcp9xnxe1w9/stlco.zip)
+  
+  
 ## Hour One - This new learning amazes me, Sir Bedevere.
 Explain again how sheep's bladders may be employed to prevent earthquakes.
-
-### Installation demo
-* How to check for 64-bit
-* Where to get Python:
-  * [Python.org](http://www.python.org/download/)
-  * [IronPython](http://ironpython.codeplex.com/)
-  * [ActivePython](http://www.activestate.com/activepython/downloads)  
+* Installation
+* Where to get help
+* IDLE Toying
   
-### Installation Help
-* [Installing Python on Windows](http://docs.python-guide.org/en/latest/starting/install/win/)  
-* Installs to: C:\Python27
-* Run: set path=%path%;C:\python27
-* Running scripts: python vs. pythonw  
-  
-### Useful tools
-#### setuptools (easy_install)  
-setuptools -> distribute -> setuptools  
-[What is the difference?](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2/6522905#6522905)  
-  
-#### easy_install (part of setuptools)-> pip  
-[How to install pip on Windows](http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows)  
-[An Easy Guide to Install Python or Pip on Windows](http://arunrocks.com/guide-to-install-python-or-pip-on-windows/)  
-pip can uninstall  
-But... easy_install works better on windows because it handles binaries.  
-  
-### Another option  
-[pip for windows](https://sites.google.com/site/pydatalog/python/pip-for-windows)  
-What does it do?  
-Why use other options?  
-
-### Where to get help
-* [Python Documentation](http://docs.python.org/2/contents.html)
-* [Python Tutorial](http://docs.python.org/2/tutorial/)
-* [Python Language Reference](http://docs.python.org/2/reference/index.html)
-* [Stackexchange](http://gis.stackexchange.com)  
-
-### IDE introduction: We will use IDLE
-* [IDE List](http://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
-* [Great advice](http://stackoverflow.com/questions/81584/what-ide-to-use-for-python)
-  
-### [One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)
-
-## Hour Two - That's enough music for now, lads...
-### Looks like there's dirty work afoot.  
-  
-  * [An Informal Introduction to Python](http://docs.python.org/2/tutorial/introduction.html)
-  * [More on Lists](http://docs.python.org/2/tutorial/datastructures.html#more-on-lists)
-  * [More Control Flow Tools](http://docs.python.org/2/tutorial/controlflow.html) (through 4.5)
+## Hour Two - That's enough music for now, lads... Looks like there's dirty work afoot.  
+[An Informal Introduction to Python](http://docs.python.org/2/tutorial/introduction.html)
 
 ## Hour Five! Three sir. Three! - We write a module and get some practice
+* More Lists
+* Flow Control
+* Useful tools
+* Scope
 
-  * The import Statement
-  * [arcpy](http://resources.arcgis.com/en/help/main/10.1/index.html#//000v00000001000000)
-  * [Defining Functions](http://docs.python.org/2/tutorial/controlflow.html#defining-functions) (4.6-4.7.3)
-  * [Scope](http://docs.python.org/2/tutorial/classes.html) (9.2 only)
-  * standard library, modules, and packages (and how to add them)
-    * [Start Here](http://docs.python.org/2/tutorial/modules.html)
-  * More arcpy Examples
-  * [Syntax Errors](http://docs.python.org/2/tutorial/errors.html#syntax-errors)
-  * [Exceptions](http://docs.python.org/2/tutorial/errors.html#exceptions)
-  * [Handling Exceptions](http://docs.python.org/2/tutorial/errors.html#handling-exceptions)
+## Hour Four - How to recognize different trees from quite a long way away and object orientation
+* The Larch
+* ```import```
+* functions
+* modules
+* The Larch
+* We write a module
 
-## Hour Four - It's only a model.
-
-  * [Data Structures](http://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences) (5.3-5.5)
-  * [os](http://docs.python.org/2/tutorial/stdlib.html#operating-system-interface) module (10.1)
-  * [datetime](http://docs.python.org/2/tutorial/stdlib.html#dates-and-times) module (10.8)
-  * [Executing Scripts](http://docs.python.org/2/tutorial/interpreter.html#executable-python-scripts) (2.2.2)
-Examples:
-
-  * Select Address Points using attributes
-  * Select parcels using location
-  * Run a buffer analysis against streets
-    * Find parcels adjacent to centerlines
-    * Find address points in parcels
-  * Create geocoder from source files
-    * Subset using attributes
-    * Subset using location
-  * os: Copy around file geodatabase
-  * synchronize replicas
-
+## Hour Five - Olsen's Standard Book of British Birds (expurgated) and the Standard Library (very abbreviated)  
+* ```os```
+* ```datetime```
+* ```pytz``` (and we install a library)  
+* Syntax Errors
+* Exceptions
+* Handling Exceptions
+  
+## Hour Six - I am out of [good references](https://docs.python.org/2/faq/general.html#do-i-have-to-like-monty-python-s-flying-circus) because data structures are not funny  
+* Tuples
+* Sets
+* Dictionaries
+* More Looping  
+  
+## Hour Seven - Geoprocessing with Arcpy: My hovercraft is full of eels.
+* Arcpy Licensing
+* We try our hand at geoprocessing
+  
+## Hour Eight - Remarkable bird, the Norwegian ```arcpy.mapping```, beautiful cartography, innit?  
+* Extents
+* Exports
+* Other bits
+* Demos by Dan too  
+  
