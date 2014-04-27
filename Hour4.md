@@ -23,7 +23,7 @@ A *package* is a collection of submodules, e.g. arcpy.
 ####Useful functions
 * ```dir()```  
 *	```help()```  
-*	
+  	
 ##We write a module  
 [Start Here](http://docs.python.org/2/tutorial/modules.html)
   * [Executing Scripts](http://docs.python.org/2/tutorial/interpreter.html#executable-python-scripts) (2.2.2)
