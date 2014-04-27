@@ -1,7 +1,6 @@
 #Olsen's Standard Book of British Birds (expurgated) and the Standard Library (very abbreviated)  
-##[os](http://docs.python.org/2/tutorial/stdlib.html#operating-system-interface) module (10.1)
-##[datetime](http://docs.python.org/2/tutorial/stdlib.html#dates-and-times) module (10.8)
-##```os``` module  
+  
+##[```os``` module](http://docs.python.org/2/tutorial/stdlib.html#operating-system-interface)  
 *Interacts with the operating system*  
 * ```os.environ``` only shows environ when imported  
 * ```os.access``` Access attributes of a path/file  
@@ -13,7 +12,7 @@
 * ```os.getcwd``` ```os.getcwdu``` Get the current working directory (as unicode).  
 * ```os.remove``` ```os.rmdir``` Does not work if in use or directory is not empty.  
 
-##```datetime``` module  
+##[```datetime``` module](http://docs.python.org/2/tutorial/stdlib.html#dates-and-times)  
 * ```datetime.date(year, month, day)``` All parameters are required.  
 * ```datetime.date.today()``` Date object representing today's date (machine time).  
 * ```datetime.time(hour, minute, second, microsecond, tzinfo)``` All patameters are optional other than hour.
