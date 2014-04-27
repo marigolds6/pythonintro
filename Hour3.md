@@ -1,4 +1,4 @@
-#Hour Five! Three sir. Three! - We write a module and get some practice
+#Hour Five! Three sir. Three! - More on lists, and we get into flow control
   
 ### [More on Lists](http://docs.python.org/2/tutorial/datastructures.html#more-on-lists)  
 * Concatenation (+) versus append() versus extend()  
