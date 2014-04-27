@@ -27,26 +27,29 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
 * Where to get Python:
   * [Python.org](http://www.python.org/download/)
   * [IronPython](http://ironpython.codeplex.com/)
-  * [ActivePython](http://www.activestate.com/activepython/downloads)
+  * [ActivePython](http://www.activestate.com/activepython/downloads)  
+  
 ### Installation Help
 * [Installing Python on Windows](http://docs.python-guide.org/en/latest/starting/install/win/)  
 * Installs to: C:\Python27
 * Run: set path=%path%;C:\python27
-* Running scripts: python vs. pythonw
+* Running scripts: python vs. pythonw  
+  
 ### Useful tools
-    * easy_install  
-    * setuptools -> distribute -> setuptools  
+#### setuptools (easy_install)  
+setuptools -> distribute -> setuptools  
 [What is the difference?](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2/6522905#6522905)  
-    * [How to install pip on Windows](http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows)  
-    * [An Easy Guide to Install Python or Pip on Windows](http://arunrocks.com/guide-to-install-python-or-pip-on-windows/)
-### easy_install (part of setuptools)-> pip  
+  
+#### easy_install (part of setuptools)-> pip  
+[How to install pip on Windows](http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows)  
+[An Easy Guide to Install Python or Pip on Windows](http://arunrocks.com/guide-to-install-python-or-pip-on-windows/)  
 pip can uninstall  
 But... easy_install works better on windows because it handles binaries.  
   
 ### Another option  
 [pip for windows](https://sites.google.com/site/pydatalog/python/pip-for-windows)  
-* What does it do?  
-* Why use other options?  
+What does it do?  
+Why use other options?  
 
 ### Where to get help
 * [Python Documentation](http://docs.python.org/2/contents.html)
