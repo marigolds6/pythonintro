@@ -12,27 +12,23 @@ with the widely used os and datetime modules. You should have a very basic
 understanding of script writing, as we will be up and running with our own
 scripts by the end of the class. Knowledge of basic flow control (if-then-
 else, for loops, while loops) is recommended.
-
-First [Download the course
-materials](https://www.dropbox.com/s/65inpcp9xnxe1w9/stlco.zip)
   
-  
-## Hour One - This new learning amazes me, Sir Bedevere.
+## [Hour One](https://github.com/marigolds6/pythonintro/edit/master/Hour1.md) - This new learning amazes me, Sir Bedevere.
 Explain again how sheep's bladders may be employed to prevent earthquakes.
 * Installation
 * Where to get help
 * IDLE Toying
   
-## Hour Two - That's enough music for now, lads... Looks like there's dirty work afoot.  
+## [Hour Two](https://github.com/marigolds6/pythonintro/edit/master/Hour2.md) - That's enough music for now, lads... Looks like there's dirty work afoot.  
 [An Informal Introduction to Python](http://docs.python.org/2/tutorial/introduction.html)
 
-## Hour Five! Three sir. Three! - We write a module and get some practice
+## [Hour Five! Three sir. Three!](https://github.com/marigolds6/pythonintro/edit/master/Hour3.md) - We write a module and get some practice
 * More Lists
 * Flow Control
 * Useful tools
 * Scope
 
-## Hour Four - How to recognize different trees from quite a long way away and object orientation
+## [Hour Four](https://github.com/marigolds6/pythonintro/edit/master/Hour4.md) - How to recognize different trees from quite a long way away and object orientation
 * The Larch
 * ```import```
 * functions
@@ -40,7 +36,7 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
 * The Larch
 * We write a module
 
-## Hour Five - Olsen's Standard Book of British Birds (expurgated) and the Standard Library (very abbreviated)  
+## [Hour Five](https://github.com/marigolds6/pythonintro/edit/master/Hour5.md) - Olsen's Standard Book of British Birds (expurgated) and the Standard Library (very abbreviated)  
 * ```os```
 * ```datetime```
 * ```pytz``` (and we install a library)  
@@ -48,17 +44,17 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
 * Exceptions
 * Handling Exceptions
   
-## Hour Six - I am out of [good references](https://docs.python.org/2/faq/general.html#do-i-have-to-like-monty-python-s-flying-circus) because data structures are not funny  
+## [Hour Six](https://github.com/marigolds6/pythonintro/edit/master/Hour6.md) - I am out of [good references](https://docs.python.org/2/faq/general.html#do-i-have-to-like-monty-python-s-flying-circus) because data structures are not funny  
 * Tuples
 * Sets
 * Dictionaries
 * More Looping  
   
-## Hour Seven - Geoprocessing with Arcpy: My hovercraft is full of eels.
+## [Hour Seven](https://github.com/marigolds6/pythonintro/edit/master/Hour7.md) - Geoprocessing with Arcpy: My hovercraft is full of eels.
 * Arcpy Licensing
 * We try our hand at geoprocessing
   
-## Hour Eight - Remarkable bird, the Norwegian ```arcpy.mapping```, beautiful cartography, innit?  
+## [Hour Eight](https://github.com/marigolds6/pythonintro/edit/master/Hour8.md) - Remarkable bird, the Norwegian ```arcpy.mapping```, beautiful cartography, innit?  
 * Extents
 * Exports
 * Other bits
