@@ -1,10 +1,10 @@
-#Arcpy Geoprocessing  
+#Arcpy Geoprocessing: My hovercraft is full of eels.  
   
 ## Licensing and ```arcpy```
 
 ### Version and product
 ```
-arcpy.GetInstallInfo() #Information abut installation
+arcpy.GetInstallInfo() #Information about installation
 (main,minor,sub) = arcpy.GetInstallInfo()['Version'].split('.')
 arcpy.CheckProduct(u'arcinfo')
 arcpy.SetProduct(u'arcinfo')
