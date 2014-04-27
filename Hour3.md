@@ -1,3 +1,5 @@
+#Hour Five! Three sir. Three! - We write a module and get some practice
+  
 ### [More on Lists](http://docs.python.org/2/tutorial/datastructures.html#more-on-lists)  
 * Concatenation (+) versus append() versus extend()  
 * pop()  
