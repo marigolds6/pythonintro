@@ -1,5 +1,7 @@
 #Olsen's Standard Book of British Birds (expurgated) and the Standard Library (very abbreviated)  
   
+*While we wait, download the [data for Hour 7](https://www.dropbox.com/s/ewanlg0vhm9rkv7/Assignment3.zip)*  
+  
 ##[```os``` module](http://docs.python.org/2/tutorial/stdlib.html#operating-system-interface)  
 *Interacts with the operating system*  
 * ```os.environ``` only shows environ when imported  
