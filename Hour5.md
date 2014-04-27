@@ -1,7 +1,7 @@
-##Some more Standard Library
-###[os](http://docs.python.org/2/tutorial/stdlib.html#operating-system-interface) module (10.1)
-###[datetime](http://docs.python.org/2/tutorial/stdlib.html#dates-and-times) module (10.8)
-###```os``` module  
+#Olsen's Standard Book of British Birds (expurgated) and the Standard Library (very abbreviated)  
+##[os](http://docs.python.org/2/tutorial/stdlib.html#operating-system-interface) module (10.1)
+##[datetime](http://docs.python.org/2/tutorial/stdlib.html#dates-and-times) module (10.8)
+##```os``` module  
 *Interacts with the operating system*  
 * ```os.environ``` only shows environ when imported  
 * ```os.access``` Access attributes of a path/file  
@@ -13,7 +13,7 @@
 * ```os.getcwd``` ```os.getcwdu``` Get the current working directory (as unicode).  
 * ```os.remove``` ```os.rmdir``` Does not work if in use or directory is not empty.  
 
-###```datetime``` module  
+##```datetime``` module  
 * ```datetime.date(year, month, day)``` All parameters are required.  
 * ```datetime.date.today()``` Date object representing today's date (machine time).  
 * ```datetime.time(hour, minute, second, microsecond, tzinfo)``` All patameters are optional other than hour.
@@ -24,7 +24,7 @@ Used for "date math" in days, second, and microseconds.
 * ```ctime()``` ctime formatting  
 * ```strftime()``` custom formatting. See (http://strftime.org/) for more info.  
 
-###```pytz``` module  
+##```pytz``` module  
 [Documentation](https://pypi.python.org/pypi/pytz/)  
 Can install from [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/) * ```pytz.utc``` UTC timezone. Do operations in UTC, then convert to desired time zone.  
 * ```pytz.timezone()``` Define a local timezone.  
@@ -32,7 +32,7 @@ Can install from [Unofficial Windows Binaries for Python Extension Packages](htt
   - 'US/Central'  
 * ```zone.localize()``` Add timezone to datetime object  
 
-
+## Errors
 * What is a [Syntax Error](http://docs.python.org/2/tutorial/errors.html#syntax-errors)?  
   - Error when parsing code for compiling  
   - Unconditionally fatal (will not compile)  
