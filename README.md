@@ -44,9 +44,8 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
     * [One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)
 
 ## Hour Two - That's enough music for now, lads...
-### Looks like there's dirty
-work afoot.
-
+### Looks like there's dirty work afoot.  
+  
   * [An Informal Introduction to Python](http://docs.python.org/2/tutorial/introduction.html)
   * [More on Lists](http://docs.python.org/2/tutorial/datastructures.html#more-on-lists)
   * [More Control Flow Tools](http://docs.python.org/2/tutorial/controlflow.html) (through 4.5)
