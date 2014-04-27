@@ -1,3 +1,16 @@
+### [More on Lists](http://docs.python.org/2/tutorial/datastructures.html#more-on-lists)  
+* Concatenation (+) versus append() versus extend()  
+* pop()  
+* index() and ```in```  
+* reverse() and sort()  
+  
+### [Flow Control](http://docs.python.org/2/tutorial/controlflow.html) (through 4.5)
+* if and else
+* while
+* for
+* range() (Another Python 3 note)
+
+
 ### Useful tools
 #### setuptools (easy_install)  
 setuptools -> distribute -> setuptools  
