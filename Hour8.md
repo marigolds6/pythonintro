@@ -41,10 +41,10 @@ Can do some limited modification of [some symbology]((http://resources.arcgis.co
 [```arcpy.mapping.ExportToPDF```](http://resources.arcgis.com/en/help/main/10.2/index.html#/ExportToPDF/00s300000027000000/) is most commonly used
 ```
 doc = arcpy.mapping.PDFDocumentCreate(<path>)
-http://resources.arcgis.com/en/help/main/10.2/index.html#/PDFDocumentCreate/00s300000019000000/
 doc.appendpages(<additional doc path>)
 doc.saveAndClose()
 ```
+http://resources.arcgis.com/en/help/main/10.2/index.html#/PDFDocumentCreate/00s300000019000000/
 
 ## What you cannot do!
  * Cannot create an mxd!
