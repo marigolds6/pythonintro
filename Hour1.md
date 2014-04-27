@@ -13,6 +13,7 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
 * Installs to: C:\Python27
 * Run: set path=%path%;C:\python27
 * Running scripts: python vs. pythonw  
+  
 ### Where to get help
 * [Python Documentation](http://docs.python.org/2/contents.html)
 * [Python Tutorial](http://docs.python.org/2/tutorial/)
