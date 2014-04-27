@@ -69,8 +69,3 @@ Can install from [Unofficial Windows Binaries for Python Extension Packages](htt
 *	```raise Exception```  
 * ```try..finally```  
 * ```try..except..else..finally```  
-  
-
-
-
-  * [Data Structures](http://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences) (5.3-5.5)
