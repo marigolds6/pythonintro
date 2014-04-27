@@ -3,6 +3,10 @@
 * pop()  
 * index() and ```in```  
 * reverse() and sort()  
+* Comprehensions
+```
+heartylaugh = [x for x in 'abracadabra' if x not in 'abc']
+```
   
 ### [Flow Control](http://docs.python.org/2/tutorial/controlflow.html) (through 4.5)
 * if and else
