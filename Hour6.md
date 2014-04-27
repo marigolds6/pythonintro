@@ -1,4 +1,4 @@
-# [Data Structures](http://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences) (5.3-5.5)
+# [Data Structures are not funny](http://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences) (5.3-5.5)
 ##Tuples
 * Immutability! (Lists are not)  
 * Usually heterogeneous (Lists are normally homogeneous)  
