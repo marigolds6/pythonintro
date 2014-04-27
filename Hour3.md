@@ -26,3 +26,26 @@ But... easy_install works better on windows because it handles binaries.
 [pip for windows](https://sites.google.com/site/pydatalog/python/pip-for-windows)  
 What does it do?  
 Why use other options?  
+  
+##Scope  
+Namespace, including __main__  
+  
+###[Scope Hierarchy](https://docs.python.org/2/tutorial/classes.html) (9.2 Only)  
+1.the innermost scope, which is searched first, contains the local names
+2. the scopes of any enclosing functions, which are searched starting with the nearest enclosing scope, contains non-local, but also non-global names
+3. the next-to-last scope contains the current module’s global names
+4. the outermost scope (searched last) is the namespace containing built-in namesthe innermost scope, which is searched first, contains the local names
+
+###The namespace script
+```
+a = 0
+def myName():
+    print "When called by a function in my namespace, my name is", __name__
+def whatisa():
+    a = 1
+    print a
+def whatisglobala():
+    global a
+    print a
+print "Right now, my name is:", __name__
+```
