@@ -51,4 +51,5 @@ http://resources.arcgis.com/en/help/main/10.2/index.html#/PDFDocumentCreate/00s3
  * Cannot create a .lyr!
  * Cannot create new date frames!
  * Cannot create new text elements!
+ * Cannot change orientation between Landscape and Portrait!
 (But can clone existing MapDocument or Layer with ```saveCCopy``` or TextElment with ```clone```.)
