@@ -15,7 +15,7 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
 ### Installation Help
 * [Installing Python on Windows](http://docs.python-guide.org/en/latest/starting/install/win/)  
 * Installs to: C:\Python27
-* Run: set path=%path%;C:\python27
+* Run in powershell: ```[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27\;C:\Python27\Scripts\", "User")```
 * Running scripts: python vs. pythonw  
   * python.exe: Executes normally with window opening.
   * pythonw.exe: Runs silently with no window. May fail if it writes to stdout (standard output) or stderr (standard error)
