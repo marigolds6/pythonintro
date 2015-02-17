@@ -4,7 +4,7 @@
 * Usually heterogeneous (Lists are normally homogeneous)  
 * Can be unpacked: x,y,z = (-90.4, 38.1, 630.0)  
 * Empty: ```t = ()```  
-* Singleton: ```t = (u'Lonely',)  
+* Singleton: ```t = (u'Lonely',)```  
   
 ##Sets
 Answers, "What is unique?"  
