@@ -2,7 +2,7 @@
 ##Tuples
 * Immutability! (Lists are not)  
 * Usually heterogeneous (Lists are normally homogeneous)  
-* Can be unpacked: x,y,z = (-90.4, 38.1, 630.0)  
+* Can be unpacked: ```x,y,z = (-90.4, 38.1, 630.0)```  
 * Empty: ```t = ()```  
 * Singleton: ```t = (u'Lonely',)```  
   
