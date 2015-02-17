@@ -58,5 +58,4 @@ Explain again how sheep's bladders may be employed to prevent earthquakes.
 * Extents
 * Exports
 * Other bits
-* Demos by Dan too  
-  
+

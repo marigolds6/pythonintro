@@ -1,9 +1,11 @@
 # Hour Two - That's enough music for now, lads...
-## Looks like there's dirty work afoot.  
+Looks like there's dirty work afoot.  
   
 ## [An Informal Introduction to Python](http://docs.python.org/2/tutorial/introduction.html)  
 ### Python as a calculator  
 * A note on Python 3 and division
+  * In Python 2, ```1/2 == 0```
+  * In Python 3, ```1/2 == 0.5```
   
 ### Assigning variables
   
